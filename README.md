@@ -7,11 +7,10 @@
 3) Testing dbt installation
 4) Setup dbt with snowflake as data platform
 5) Testing dbt connection
-6) ELT Data Architecture & Data Modelling
-7) Upload raw data files
-8) Create Models
-9) Create Test
-10) Create documentations
+6) Upload raw data files
+7) Create Models
+8) Create Test
+9) Create documentations
 
 ### Install dbt core and dbt-snowflake
 #### Install using pip and virtual environments
